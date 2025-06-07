@@ -36,7 +36,7 @@
 **Teknoloji Stacki:**  
 `ASP.NET Core MVC` `EF Core` `Bootstrap 5` `JavaScript` `BCrypt.Net` `HTTPS` `Cookie Auth`  
 
-[🌍 Canlı Demo](https://plan345.online/) | [📦 Kaynak Kod](https://github.com/sadikcantuluk)
+[🌍 Canlı Demo](https://https://kriptokampus.com/) | [📦 Kaynak Kod](https://github.com/sadikcantuluk)
 
 ---
 
